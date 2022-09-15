@@ -27,6 +27,9 @@
 .App-link {
   color: #61dafb;
 }
+.name_badge{
+  border-radius: 10px;
+}
 
 @keyframes App-logo-spin {
   from {
